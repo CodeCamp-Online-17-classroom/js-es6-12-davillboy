@@ -13,3 +13,4 @@ console.log(raindrops); // *
 console.log(whiskers); // **
 console.log(aFewOfMyFavoriteThings); // ***
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
